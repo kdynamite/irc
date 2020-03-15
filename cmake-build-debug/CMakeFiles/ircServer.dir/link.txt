@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ircServer.dir/Src/client.c.o CMakeFiles/ircServer.dir/Src/linked_list.c.o CMakeFiles/ircServer.dir/Src/Channels.c.o CMakeFiles/ircServer.dir/Src/main.c.o  -o ircServer 

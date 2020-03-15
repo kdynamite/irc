@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/realdypson/Downloads/ircserver/Header/linked_list.h
+
+/home/realdypson/Downloads/ircserver/Src/linked_list.c
+../Header/linked_list.h
+/home/realdypson/Downloads/ircserver/Header/linked_list.h
+stdlib.h
+-
+

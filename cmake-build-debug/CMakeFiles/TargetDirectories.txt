@@ -1,0 +1,3 @@
+/home/realdypson/Downloads/ircserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/realdypson/Downloads/ircserver/cmake-build-debug/CMakeFiles/ircServer.dir
+/home/realdypson/Downloads/ircserver/cmake-build-debug/CMakeFiles/edit_cache.dir
